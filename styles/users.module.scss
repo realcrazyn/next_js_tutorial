@@ -1,0 +1,12 @@
+$color: whitesmoke;
+
+.user {
+  background: $color;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  &__name {
+    color: rgba(56, 55, 55, 0.822);
+  }
+}
